@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/lunr_logo.jpg
+heroImage: /images/logo.png
 heroText: Lunr.js
 tagline: Lunr.js 是轻量级 JavaScript 全文搜索引擎。
 actionText: v 2.3.9 →

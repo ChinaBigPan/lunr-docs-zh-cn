@@ -24,8 +24,8 @@ function getApiRoute() {
 
 
 module.exports= {
-    title: 'lunr.js 中文文档',
-    description: "Lunr.js 是轻量级 JavaScript 全文搜索引擎。它为文档建立索引，并提供一个简单的搜索界面来检索与文本查询最匹配的文档对于一些小型的博客、开发者文档或 Wiki 网站来说，完全可以通过它实现站内离线搜索。",
+    title: 'Lunr.js',
+    description: "Lunr.js 是轻量级 JavaScript 全文搜索引擎。它为文档建立索引，并提供简单的搜索界面来检索与文本查询最匹配的文档，对于一些小型的博客、开发者文档来说，可以实现站内离线搜索。",
     base: '/lunr-docs-zh-cn/',
     markdown: {
         lineNumbers: true,

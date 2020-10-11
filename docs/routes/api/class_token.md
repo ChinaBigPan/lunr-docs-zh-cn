@@ -1,6 +1,6 @@
 ---
 title: 类 Token
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Class:Token

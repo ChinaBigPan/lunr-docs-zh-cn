@@ -1,6 +1,6 @@
 ---
 title: 命名空间 lunr
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Namespace: lunr

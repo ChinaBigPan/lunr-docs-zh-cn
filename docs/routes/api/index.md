@@ -1,6 +1,6 @@
 ---
 title: 总览
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # 总览

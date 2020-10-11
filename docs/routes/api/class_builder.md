@@ -1,6 +1,6 @@
 ---
 title: 类 Builder
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Class: Builder

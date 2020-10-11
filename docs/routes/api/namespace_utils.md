@@ -1,6 +1,6 @@
 ---
 title: 命名空间 utils
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Namespace:utils

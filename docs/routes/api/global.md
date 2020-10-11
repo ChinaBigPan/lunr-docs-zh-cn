@@ -1,6 +1,6 @@
 ---
 title: 全局 Global
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Global

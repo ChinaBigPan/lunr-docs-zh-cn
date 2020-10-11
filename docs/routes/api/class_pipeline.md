@@ -1,6 +1,6 @@
 ---
 title: 类 Pipeline
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Class:Pipeline

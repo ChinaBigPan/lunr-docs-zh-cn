@@ -1,6 +1,6 @@
 ---
 title: 接口 PipelineFunction
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Interface: PipelineFunction

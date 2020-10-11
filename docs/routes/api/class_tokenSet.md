@@ -1,6 +1,6 @@
 ---
 title: 类 TokenSet
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Class: TokenSet

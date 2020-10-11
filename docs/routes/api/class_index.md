@@ -1,6 +1,6 @@
 ---
 title: 类 Index
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Class: Index

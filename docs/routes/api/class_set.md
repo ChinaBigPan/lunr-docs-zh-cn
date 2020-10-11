@@ -1,6 +1,6 @@
 ---
 title: 类 Set
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Class:Set

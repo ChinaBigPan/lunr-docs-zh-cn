@@ -3,6 +3,8 @@ title: 开始
 sidebarDepth: 3
 ---
 
+<febeacon />
+
 # 开始
 
 [英文原地址](https://lunrjs.com/guides/getting_started.html)
